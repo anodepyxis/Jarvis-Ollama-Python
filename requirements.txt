@@ -1,0 +1,11 @@
+openai
+speechrecognition
+pyttsx3
+pyaudio
+python-dotenv 
+ollama 
+websearch-python 
+pytz
+geopy
+requests
+beautifulsoup4 
